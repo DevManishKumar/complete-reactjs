@@ -1,0 +1,68 @@
+.contained {
+  margin: 1rem;
+  padding: 2rem;
+  background: #d38686;
+  border-radius: 10px;
+}
+
+.contained-center {
+  text-align: center;
+}
+
+.text-head {
+  font-size: 28px;
+  color: rgb(66, 62, 57);
+  text-decoration: underline #c9b882;
+}
+
+.text-body {
+  text-align: start;
+  margin-left: 36%;
+}
+
+.text-count {
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 800;
+  color: rgb(10, 67, 189);
+}
+
+.btn {
+  background-color: rgb(3, 250, 196);
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #3a3530;
+}
+
+.propsEx {
+  display: flex;
+  flex-direction: column;
+}
+
+.props-head {
+  display: flex;
+  gap: 8rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.props-body {
+  display: flex;
+  gap: 4rem;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Tutorial Content Style */
+.syntax-highlighter {
+  max-width: 800px;
+  text-align: start;
+  margin: auto;
+}
+.text-body-start {
+  font-size: 20px;
+  color: #36322e;
+}
