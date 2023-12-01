@@ -24,8 +24,8 @@ const Intro = () => {
         <h4 className="text-head">For setting up React in our local system, the first step is to Install NodeJs and npm.</h4>
 
         
-        <h3 className="syntax-highlighter text-body-start">
-        <Highlighter copyToClipBoard={true}>Install Nodejs</Highlighter>
+        <h3 className="text-body-start">
+      Install Nodejs
       </h3>
         <p className="text-body-start">Node.js provides a runtime environment to execute JavaScript code from outside a browser. NPM, the Node package manager is used for managing and sharing the packages for either React or Angular.</p>
 
