@@ -21,12 +21,12 @@ const Intro = () => {
 
             <h2>ReactJS installation and setup</h2>  
 
-        <h6>For setting up React in our local system, the first step is to Install NodeJs and npm.</h6>
+        <h4>For setting up React in our local system, the first step is to Install NodeJs and npm.</h4>
 
         
-        <h5 className="syntax-highlighter">
+        <h3 className="syntax-highlighter">
         <Highlighter copyToClipBoard={true}>Install Nodejs</Highlighter>
-      </h5>
+      </h3>
         <p>Node.js provides a runtime environment to execute JavaScript code from outside a browser. NPM, the Node package manager is used for managing and sharing the packages for either React or Angular.</p>
 
         <p>NPM will be installed along with Nodejs. Node.js can be downloaded and installed from the official NodeJs website.</p>
@@ -39,9 +39,9 @@ const Intro = () => {
         <p>The next step is to install a tool called create-react-app using NPM. This tool is used to create react applications easily from our system. You can install this at the system level or temporarily at a folder level. We will install it globally by using the following command.</p>
 
         
-        <h5 className="syntax-highlighter">
+        <h3 className="syntax-highlighter">
         <Highlighter copyToClipBoard={true}>npm install -g create-react-app</Highlighter>
-      </h5>
+      </h3>
 
 
       <h2>Creating a new react project</h2>
